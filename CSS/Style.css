@@ -1,0 +1,31 @@
+body{
+    font: 20px helvetica;
+}
+
+.photo_globallabs{
+    margin-left: 30px;
+}
+
+.navbar{
+    background-color: #28B463;
+}
+.quem-somos{
+    background-color: #3498DB;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.rounded-circle{
+    margin-bottom: 5px;
+}
+
+.parceiros{
+    background-color: #F39C12 ;
+}
+
+.bg-footer{
+    background-color: #F1C40F;
+}
